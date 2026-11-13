@@ -5,4 +5,8 @@ MỤC 1: THÔNG TIN SINH VIÊN
 
 MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 ### 1.Màn hình chính
-[!main](
+[!main](Bai_6.6/images/main.JPG)
+### 2.Kết quả 
+[!result](Bai_6.6/images/result.JPG)
+### 3. Lỗi
+[!error](Bai_6.6/images/error.JPG)
